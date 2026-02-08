@@ -1,2 +1,6 @@
 # Lab2
-The goal of this project is to build a machine learning classification model that can automatically identify whether a given SMS message is spam or not spam. The model learns patterns from labeled SMS messages and predicts the class of new unseen messages. This helps in reducing unwanted messages and improving communication security.
+Dataset Description
+The SMS Spam Collection Dataset is a tabular dataset that contains a collection of SMS messages labeled as either spam or ham (not spam). The dataset includes two main columns: one for the message text and another for the class label. It is commonly used for machine learning experiments related to text classification.
+
+Machine Learning Problem
+This project addresses a supervised machine learning classification problem. The objective is to build a model that can classify SMS messages as spam or not spam based on their content. Such a model helps in filtering unwanted messages and improving communication efficiency.
